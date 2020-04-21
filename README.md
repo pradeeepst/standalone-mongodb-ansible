@@ -7,7 +7,7 @@ It's a POC !
 ## How to use this project
 
 ### prerequisite
-1. Install [Ansible] (https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installation-guide)
+1. [Install Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installation-guide)
 2. Playbook works in Ubuntu Xenial
 
 ### Ansible settings 
