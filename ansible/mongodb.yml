@@ -1,0 +1,8 @@
+---
+#name: install-mongo
+- hosts: mongodb
+  become: true
+  become_user: root
+  roles:
+  - /home/cloud_user/ansible/roles/common
+  - /home/cloud_user/ansible/roles/mongodb
